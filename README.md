@@ -30,15 +30,15 @@ list.{c,h}  A doubly-linked list implementation you are free to use
 Building and running the driver
 -------------------------------
 
-To build the driver, type "make" to the shell.
+To build the driver, type `make` to the shell.
 
 To run the driver on a tiny test trace:
 
-	unix> mdriver -V -f short1-bal.rep
+`unix> mdriver -V -f short1-bal.rep`
 
 The -V option prints out helpful tracing and summary information.
 
 To get a list of the driver flags:
 
-	unix> mdriver -h
+`unix> mdriver -h`
 
