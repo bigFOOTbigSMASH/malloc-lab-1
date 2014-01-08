@@ -5,10 +5,10 @@ Main Files:
 * mm.{c,h}	
    The implemented malloc package. Used as a solution to the given assignment.
 
-* mdriver.c	
+* mdriver.c  
    The malloc driver that tests the mm.c file
 
-* short{1,2}-bal.rep
+* short{1,2}-bal.rep  
    Two tiny tracefiles. 
 
 * Makefile	
